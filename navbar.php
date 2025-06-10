@@ -1,13 +1,13 @@
 <!DOCTYPE html>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script src="/tailwind.js"></script>
+    <script src="cache.php?file=/tailwind.js"></script>
 <script>
             tailwind.config = {
                 darkMode: 'class',
             };
         </script>
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="cache.php?file=https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <style>
           html {
   scroll-behavior: smooth;
